@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/src">
+        <file>qml/qtcontrols/about.qml</file>
+        <file>qml/qtcontrols/main.qml</file>
+        <file>qml/qtcontrols/login.qml</file>
+        <file>qml/qtcontrols/password.qml</file>
+        <file>qml/qtcontrols/controlpanel.qml</file>
+        <file>qml/qtcontrols/ListDialog.qml</file>
+        <file>qml/qtcontrols/initpage.qml</file>
+        <file>qml/qtcontrols/settings.qml</file>
+        <file>qml/qtcontrols/history.qml</file>
+        <file>qml/qtcontrols/MessageDialog.qml</file>
+        <file>qml/qtcontrols/ToolButtonDR.qml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>icons/button-back.png</file>
+        <file>icons/about.png</file>
+        <file>icons/darhon.png</file>
+    </qresource>
+</RCC>

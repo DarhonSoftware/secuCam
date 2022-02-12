@@ -23,7 +23,7 @@ void CAbout::init()
   setIconDarhon("qrc:/image/icons/darhon.png");
   setCopyright(tr("Copyright 2015-2016 - Darhon Software"));
   setSupport(tr("Help & Support") + " - " + QCoreApplication::organizationDomain());
-  setPrivacy(QString("<a href='http://www.darhon.com/faq/345'>%1</a>").arg(tr("Privacy Policy")));
+  setPrivacy(QString("<a href='https://darhon.com/secucam-privacy-policy'>%1</a>").arg(tr("Privacy Policy")));
   setAppCode("");
   setVersion(tr("Gold version"));
   setActCode("");
